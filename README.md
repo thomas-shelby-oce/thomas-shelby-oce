@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomas-shelby-oce](https://github.com/thomas-shelby-oce)
 
-- 📫 You can reach me at **grajesh567@gmail.com**
+- 📫 You can reach me at **anishgupta443700@gmail.com**
 
 - ⚡ Fun fact **Some times I use GitHub to write stories :P**
 
