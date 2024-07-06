@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Gupta</h1>
-<h3 align="center">iOS & React Native Developer || SDE at Urban Companny || Competitive Programmer</h3>
+<h3 align="center">iOS & React Native Developer || SDE at Urban Company || Competitive Programmer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomas-shelby-oce](https://github.com/thomas-shelby-oce)
 
